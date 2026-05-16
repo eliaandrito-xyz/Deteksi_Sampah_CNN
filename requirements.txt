@@ -1,0 +1,9 @@
+tensorflow>=2.10.0
+numpy
+pillow
+matplotlib
+seaborn
+scikit-learn
+flask
+flask-cors
+requests
